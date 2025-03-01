@@ -52,7 +52,7 @@ Bu projeyi sevdiniz mi? Sevdiyseniz projenin sahibine [sponsor](https://github.c
     * [Eldeki Alet/Enstrüman Yasası](#eldeki-aletenstrüman-yasası)
     * [Önemsizlik Yasası](#önemsizlik-yasası)
     * [Unix Felsefesi](#unix-felsefesi)
-    * [İzci Kuralı](#izci-kuralı)
+    * [İzci Kuralı](#i̇zci-kuralı)
     * [Spotify Modeli](#spotify-modeli)
     * [İki Pizza Kuralı](#i̇ki-pizza-kuralı)
     * [Wadler Yasası](#wadler-yasası)
