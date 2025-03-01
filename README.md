@@ -52,6 +52,7 @@ Bu projeyi sevdiniz mi? Sevdiyseniz projenin sahibine [sponsor](https://github.c
     * [Eldeki Alet/Enstrüman Yasası](#eldeki-aletenstrüman-yasası)
     * [Önemsizlik Yasası](#önemsizlik-yasası)
     * [Unix Felsefesi](#unix-felsefesi)
+    * [İzci Kuralı](#izci-kuralı)
     * [Spotify Modeli](#spotify-modeli)
     * [İki Pizza Kuralı](#i̇ki-pizza-kuralı)
     * [Wadler Yasası](#wadler-yasası)
@@ -664,6 +665,25 @@ Bu kurgu örnek 'Bike Shedding' diye bir deyimin yaygınlaşmasına sebep olmuş
 Unix felsefesi şöyle özetlenebilir; bir yazılım parçası olabildiğince küçük olmalı ve sadece bir işi yapmaya odaklanmalıdır. Bu felsefeye uymak sistemleri büyük, karmaşık ve çok amaçlı programlarla oluşturmak yerine küçük, basit ve iyi tanımlanmış parçalardan daha kolayca oluşturmayı sağlar.
 
 Modern yaklaşımlardan biri olan 'Mikro-service Mimarisi' de bu felsefenin uygulaması olarak düşünülebilir. Çünkü bu mimari ile servislerin küçük, amaç odaklı ve tek bir iş yapacak şekilde geliştirilmesi ve karmaşık yapıların küçük basit bloklar halinde oluşturulması hedefleniyor.
+
+### İzci Kuralı
+
+[O'Reilly'de İzci Kuralı](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch08.html)
+
+Kodları her zaman bulduğunuzdan daha iyi durumda bırakın.
+
+(Robert C. Martin (Uncle Bob))
+
+"İzci Kuralı", "kamp alanını her zaman bulduğunuzdan daha temiz bırakın" anlayışına dayanır. Programlamada İzci Kuralı ise basitçe, "her zaman kodu bulduğunuzdan daha temiz bırakın" anlamına gelir.
+
+Bu kural, Bob Martin’in Clean Code kitabının ilk bölümünde tanıtılmıştır. Geliştiricilerin, üzerinde çalıştıkları kodun genel kalitesini iyileştirmeye yönelik 'iyimser yeniden düzenleme' (optimistic refactoring) yapmalarını önerir. Bir hata görürseniz, düzeltmeye veya temizlemeye çalışın. Ancak, yanlış gibi görünen bir kod üzerinde değişiklik yaparken Chesterton Çiti ilkesini hatırlamak faydalı olabilir!
+
+Ek kaynaklar:
+
+- [Okuma Listesi: Clean Code](https://github.com/dwmkerr/hacker-laws?tab=readme-ov-file#reading-list)
+- [Chesterton Çiti](#chesterson-çiti)
+- [Kırık Camlar Teorisi](#kırık-camlar-teorisi)
+- [Clean Code Kitabı](https://www.amazon.sg/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ### Spotify Modeli
 
