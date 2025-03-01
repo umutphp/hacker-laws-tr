@@ -575,7 +575,7 @@ Ek kaynaklar;
 
 ### Ringelmann Etkisi
 
-Wikipedia'da Ringelmann Etkisi](The Ringelmann effect on Wikipedia)
+[Wikipedia'da Ringelmann Etkisi](https://en.wikipedia.org/wiki/Ringelmann_effect)
 
 Ringelmann Etkisi, bir göreve daha fazla insan dahil oldukça bireylerin giderek daha verimsiz hale gelme eğilimidir. Başka bir deyişle, bir ekibe daha fazla kişi eklendikçe, ortalama bireysel performans düşer. Bunun arkasında motivasyon kaybı ("sosyal kaytarma") ve koordinasyon zorlukları gibi çeşitli nedenlerin olduğu düşünülmektedir.
 
