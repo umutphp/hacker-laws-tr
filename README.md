@@ -35,6 +35,7 @@ Bu projeyi sevdiniz mi? Sevdiyseniz projenin sahibine [sponsor](https://github.c
     * [Hutber Yasası](#hutber-yasası)
     * [Hype Döngüsü ve Amara Yasası](#hype-döngüsü-ve-amara-yasası)
     * [Hyrum Yasası (Arabirimlerin Örtülü Hukuku)](#hyrum-yasası-arabirimlerin-örtülü-hukuku)
+    * [Girdi-İşlem-Çıktı (GİÇ)](#girdi-i̇şlem-çıktı-gi̇ç)
     * [Kernighan Yasası](#kernighan-yasası)
     * [Linus Yasası](#linus-yasası)
     * [Metcalfe Yasası](#metcalfe-yasası)
@@ -419,6 +420,24 @@ Ek kaynaklar:
 
 - [Sızdıran Soyutlamalar Yasası](#sızdıran-soyutlamalar-yasası)
 - [XKCD 1172](https://xkcd.com/1172/)
+
+### Girdi-İşlem-Çıktı (GİÇ)
+
+[Wikipedia'da Girdi–İşlem–Çıktı](https://en.wikipedia.org/wiki/IPO_model)
+
+Sistemler son derece karmaşık olabilir, ancak genellikle basit bir desene uyan daha küçük parçalara ayrılabilir:
+
+1. Girdi sağlanır
+2. Bir tür işleme veya dönüşüm yapılır
+3. Çıktı oluşur
+
+Bir programlama dilinde veya sistemdeki sıralama fonksiyonu, GİÇ deseninin klasik bir örneği olabilir; burada rastgele bir girdi, bir predikate göre sıralanır ve geri döndürülür. Bir web sunucusu da bir GİÇ sistemi olarak modellenebilir; HTTP istekleri HTTP yanıtlarına dönüştürülür. Aynı şekilde, oldukça karmaşık bir Generatif Yapay Zeka sistemi de bu şekilde modellenebilir; kullanıcı girdiği bir veri, karmaşık bir modelden geçirilir ve bir yanıt üretilir.
+
+GİÇ deseni, neredeyse tüm teknolojik alanlarda farklı biçimlerde mevcuttur. Fonksiyonel programlama dillerinden, açıkça GİÇ desenlerini takip edenlere kadar, Unix Felsefesi gibi karmaşık sistemlerin birçok basit GİÇ programı birleştirilerek inşa edilebileceğini öne süren bir yaklaşıma kadar pek çok alanda karşımıza çıkar.
+
+Ek kaynaklar:
+
+- [Unix Felsefesi](#unix-felsefesi)
 
 ### Kernighan Yasası
 
