@@ -55,6 +55,7 @@ Bu projeyi sevdiniz mi? Sevdiyseniz projenin sahibine [sponsor](https://github.c
     * [İzci Kuralı](#i̇zci-kuralı)
     * [Spotify Modeli](#spotify-modeli)
     * [İki Pizza Kuralı](#i̇ki-pizza-kuralı)
+    * [Twyman'ın Yasası](#twymanın-yasası)
     * [Wadler Yasası](#wadler-yasası)
     * [Wheaton Yasası](#wheaton-yasası)
 * [Prensipler](#prensipler)
@@ -704,6 +705,18 @@ Bu kural, şirketin büyüklüğünden bağımsız olarak, ekiplerin iki pizza i
 İnsanlar arasındaki bağlantıların sayısını `n(n-1)/2` şeklinde tanımlayabiliriz. Burada n insan sayısıdır.
 
 <img width="200px" alt="Complete graph; Links between people" src="./images/complete_graph.png" />
+
+### Twyman'ın Yasası
+
+[Wikipedia'da Twyman'ın Yasası](https://en.wikipedia.org/wiki/Twyman%27s_law)
+
+> Ne kadar sıra dışı veya ilginç olursa, verilerin bir hata sonucu oluşmuş olma ihtimali de o kadar yüksektir.
+
+Bu yasa, özellikle olağandışı veri noktaları görüldüğünde, bunların hatalardan veya manipülasyondan kaynaklanma olasılığının daha yüksek olduğunu öne sürer. Örneğin, bir atletizm yarışmasının uzun atlama sonuçlarında en yüksek derecenin 20 metre (dünya rekorunun iki katından fazla) olarak kaydedildiğini varsayalım. Bu durumda, bunun bir hata (örneğin, ölçümün metre yerine fit cinsinden kaydedilmesi) veya sonuçların manipülasyonu nedeniyle ortaya çıkmış olması, gerçekten sıra dışı bir atlayıştan daha olasıdır.
+
+Ek kaynaklar:
+
+- Sagan Standardı
 
 ### Wadler Yasası
 
