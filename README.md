@@ -45,6 +45,7 @@ Bu projeyi sevdiniz mi? Sevdiyseniz projenin sahibine [sponsor](https://github.c
     * [Olgunlaşmamış Optimizasyon Etkisi](#olgunlaşmamış-optimizasyon-etkisi)
     * [Putt Yasası](#putt-yasası)
     * [Reed Yasası](#reed-yasası)
+    * [Ringelmann Etkisi](#ringelmann-etkisi)
     * [Karmaşıklığın Korunması Yasası (Tesler Yasası)](#karmaşıklığın-korunması-yasası-tesler-yasası)
     * [Demeter Yasası](#demeter-yasası)
     * [Sızdıran Soyutlamalar Yasası](#sızdıran-soyutlamalar-yasası)
@@ -569,6 +570,17 @@ Ek kaynaklar;
 
 - [Metcalfe Yasası](#metcalfe-yasası)
 - [Dunbar Sayısı](#dunbar-sayısı)
+
+
+### Ringelmann Etkisi
+
+Wikipedia'da Ringelmann Etkisi](The Ringelmann effect on Wikipedia)
+
+Ringelmann Etkisi, bir göreve daha fazla insan dahil oldukça bireylerin giderek daha verimsiz hale gelme eğilimidir. Başka bir deyişle, bir ekibe daha fazla kişi eklendikçe, ortalama bireysel performans düşer. Bunun arkasında motivasyon kaybı ("sosyal kaytarma") ve koordinasyon zorlukları gibi çeşitli nedenlerin olduğu düşünülmektedir.
+
+Ek kaynaklar;
+
+- [Brooks Yasası](#brooks-yasası)
 
 ### Karmaşıklığın Korunması Yasası (Tesler Yasası)
 
