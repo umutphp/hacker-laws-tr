@@ -16,6 +16,7 @@ Bu projeyi sevdiniz mi? Sevdiyseniz projenin sahibine [sponsor](https://github.c
 * [Giriş](#giriş)
 * [Yasalar](#yasalar)
     * [90–9–1 Prensibi (1% Kuralı)](#9091-prensibi-1-kuralı)
+    * [90–90 Kuralı](#9090-kural%C4%B1)
     * [Amdahl Yasası](#amdahl-yasası)
     * [Kırık Camlar Teorisi](#kırık-camlar-teorisi)
     * [Brooks Yasası](#brooks-yasası)
@@ -107,6 +108,19 @@ Gerçek dünyadan örnekler:
 Ek kaynaklar:
 
 - [Pareto prensibi](#pareto-prensibi-8020-kuralı)
+
+### 90–90 Kuralı
+
+[Wikipedia'da 90-90 Kuralı](https://en.wikipedia.org/wiki/Ninety%E2%80%93ninety_rule)
+
+> Kodun ilk %90’ı, geliştirme süresinin ilk %90’ını kapsar. Kalan %10’luk kısım ise geliştirme süresinin diğer %90’ını kapsar.
+
+Bu, Pareto İlkesi'ni (veya 80-20 kuralını) esprili bir şekilde yeniden yorumlayan ve mühendislik çalışmalarını tamamlamanın gerçek dünyadaki zorluklarını vurgulayan bir ifadedir. Aynı düşünce Hofstadter Yasası'nda da dile getirilmiştir.
+
+Ek kaynaklar:
+
+- [Hofstadter Yasası](#hofstadter-yasas%C4%B1)
+- [Pareto İlkesi](#pareto-prensibi-8020-kuralı)
 
 ### Amdahl Yasası
 
